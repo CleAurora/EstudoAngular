@@ -15,7 +15,7 @@
           "options": {
             "outputPath": "dist/course-manager",
             "index": "src/index.html",
-            "main": "src/main.ts",
+            "main": "src/main.ts", // fazer o bootstrap da nossa aplicação
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "aot": true,
